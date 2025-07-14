@@ -1,0 +1,16 @@
+node_modules/\n.env\n*.log\ndist/\nbuild/
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Environment variables
+backend/.env
+
+# Database
+*.sqlite
+*.db
+
+# Build output
+frontend/build/
